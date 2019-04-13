@@ -2,3 +2,4 @@ deneme oluşturuldu
 denemeye yeni iki satır eklendi
 
 sabır
+merhaba satırı eklendi
